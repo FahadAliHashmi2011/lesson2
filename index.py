@@ -1,3 +1,4 @@
+import keyword
 print("welcome to the world of progamming")
 print(4)
 print("hello python /n")
@@ -11,3 +12,5 @@ codingal=("codingal")
 print(codingal)
 name=input("enter your name:")
 print("hello",name," and welcome to codingal")
+print(" all the python keywords are .../n")
+print(keyword.kwlist)
